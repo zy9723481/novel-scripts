@@ -1,0 +1,24 @@
+{
+  "novel": {
+    "title": "开局签到百亿返现",
+    "author": "周星星",
+    "platform": "fanqie",
+    "genre": "都市/无限流/系统爽文",
+    "status": "连载中",
+    "last_volume": 1,
+    "last_chapter": 0
+  },
+  "writing": {
+    "words_per_chapter": 3000,
+    "chapters_per_day": 1,
+    "style": "爽文",
+    "tone": "轻松幽默"
+  },
+  "publish": {
+    "platform": "fanqie",
+    "auto_publish": false,
+    "save_draft_only": true,
+    "fanqie_dashboard_url": "https://author.fanqienovel.com",
+    "last_published_chapter": 0
+  }
+}
