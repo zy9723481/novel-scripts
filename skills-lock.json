@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "chapter-writing": {
+      "source": "bs779517/story-skills",
+      "sourceType": "github",
+      "skillPath": "skills/chapter-writing/SKILL.md",
+      "computedHash": "7d26b155ad1c689981475e1ff2afdda02c4380c22460704278368dc7b4132601"
+    },
+    "character-arcs": {
+      "source": "bybren-llc/story-systems-template",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/character-arcs/SKILL.md",
+      "computedHash": "66a00f55960500c4d40fd362aa8e76c3ae8f28526aa9b3b56a1e47942a7e6688"
+    },
+    "character-interview": {
+      "source": "bybren-llc/story-systems-template",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/character-interview/SKILL.md",
+      "computedHash": "fbfc7d7e93499509da257abc276369e674ba7b1306bb016807a821bc8b8dd40a"
+    },
+    "creative-writing": {
+      "source": "greyhaven-ai/claude-code-config",
+      "sourceType": "github",
+      "skillPath": "grey-haven-plugins/creative-writing/skills/creative-writing/SKILL.md",
+      "computedHash": "d6969d8d50bf85ba76313938f1035d450d8e0dcd201604c0caaa33a142ccc65e"
+    },
+    "fiction-workshop": {
+      "source": "rhavekost/author-toolkit",
+      "sourceType": "github",
+      "skillPath": "skills/fiction-workshop/SKILL.md",
+      "computedHash": "28d76cb5d46e90c0657f427bbce157ed667bd5f4f73f916ccb8937bfdc9d9bf9"
+    },
+    "humanize-writing": {
+      "source": "jpeggdev/humanize-writing",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "ee0583446cb367ae750cd17d32a7d63b1f335d7bd8570c18d6a39e484f551325"
+    },
+    "novel-architect": {
+      "source": "junaid18183/novel-architect-skills",
+      "sourceType": "github",
+      "skillPath": "skills/novel-architect/SKILL.md",
+      "computedHash": "301fb79d5a4ac4b62eaf304b2c493c76591d12abb48fcdc64dde03c741d002f6"
+    },
+    "novel-creator": {
+      "source": "mave99a/novel-skill",
+      "sourceType": "github",
+      "skillPath": "skills/novel-creator/SKILL.md",
+      "computedHash": "8210ae464d681414d3708789578e7d59034b39e57df8c2a41f7d18f2135ac3c2"
+    },
+    "novel-writer": {
+      "source": "yangsonhung/awesome-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/en/novel-writer/SKILL.md",
+      "computedHash": "d51b2920b20d0e681600e053e66760808e007bd1fb197211c6ced1622189c4cc"
+    },
+    "outline-collaborator": {
+      "source": "jwynia/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/structure/outline-collaborator/SKILL.md",
+      "computedHash": "a69dedea07223f470bda480f6970fde6f986b84675c4b5b70f59170e36831689"
+    },
+    "plot-structure": {
+      "source": "bs779517/story-skills",
+      "sourceType": "github",
+      "skillPath": "skills/plot-structure/SKILL.md",
+      "computedHash": "433fa3650ad73aee82c56ef01193aa86eb0f9f44f01cedce5d5b05f921ee5372"
+    },
+    "worldbuilding": {
+      "source": "omer-metin/skills-for-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/worldbuilding/SKILL.md",
+      "computedHash": "412a1a257751d000a11ea46caffde9c7d23d0488418492d5ba83cc0c009bb718"
+    }
+  }
+}
